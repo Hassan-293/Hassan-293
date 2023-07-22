@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
-- 💬 Ask me about **Machine Learning and Data Science**
+- 💬 Ask me about **Machine Learning and Data Science.**
 
-- 📫 How to reach me **shiekhhassan1234draq@gmail.com**
+- 📫 Mail me at **shiekhhassan1234draq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
